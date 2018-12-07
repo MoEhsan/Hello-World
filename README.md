@@ -1,3 +1,3 @@
 # Hello-World
 starting with github
-first change to Reademe
+first change to Readme
